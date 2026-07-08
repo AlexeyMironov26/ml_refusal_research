@@ -1,0 +1,1 @@
+this is readme file for task of researching the phenomenon of refusal of models
