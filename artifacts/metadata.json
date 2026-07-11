@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+  "n_layers": 28,
+  "d_model": 1536,
+  "n_train": 300,
+  "n_val": 70,
+  "n_heldout": 150
+}
