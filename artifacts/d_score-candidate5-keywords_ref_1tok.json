@@ -1,5 +1,5 @@
 {
-  "best_layer": 19,
+  "best_layer": 22,
   "separation_scores": [
     0.0,
     2.5740487575531006,
@@ -31,7 +31,7 @@
     7.870398044586182,
     7.751769542694092
   ],
-  "cos_stability_best_layer": 0.9991854429244995,
+  "cos_stability_best_layer": 0.9992733001708984,
   "candidate5_stats": [
     {
       "layer": 19,
