@@ -8,7 +8,7 @@ this is readme file for task of researching and controlling the phenomenon of re
 ## Структура репозитория
 
 - `artifacts/` — все сохранённые данные: вектор refusal direction, графики и прочее
-- `test_refusal_ml_v5` — ноутбук 
+- `test_refusal_ml_v6` — ноутбук 
 
 
 ## Воспроизводимость
@@ -21,7 +21,7 @@ this is readme file for task of researching and controlling the phenomenon of re
 ## Как запустить
 
 1. Открыть Kaggle Notebook с GPU T4.
-2. Импортировать `test_refusal_ml_v5.ipynb` и запустить.
+2. Импортировать `test_refusal_ml_v6.ipynb` и запустить.
 
 
 ## Лицензия
