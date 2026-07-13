@@ -1,0 +1,50 @@
+[
+  {
+    "coeff": -3.0,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.12,
+    "mean_perplexity": 3.063710278272629
+  },
+  {
+    "coeff": -1.5,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.12,
+    "mean_perplexity": 3.0766118466854095
+  },
+  {
+    "coeff": -0.5,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.12,
+    "mean_perplexity": 3.0839687168598173
+  },
+  {
+    "coeff": 0.0,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.12,
+    "mean_perplexity": 3.0718071162700653
+  },
+  {
+    "coeff": 0.5,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.12,
+    "mean_perplexity": 3.0738820135593414
+  },
+  {
+    "coeff": 1.5,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.12,
+    "mean_perplexity": 3.0083764731884
+  },
+  {
+    "coeff": 3.0,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.12,
+    "mean_perplexity": 3.00417600274086
+  },
+  {
+    "coeff": 5.0,
+    "refusal_rate_harmful": 1.0,
+    "refusal_rate_harmless": 0.16,
+    "mean_perplexity": 2.977135843038559
+  }
+]
